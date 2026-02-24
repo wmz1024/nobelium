@@ -96,7 +96,7 @@ const components = {
   )
 }
 
-const mapPageUrl = id => `https://www.notion.so/${id.replace(/-/g, '')}`
+const mapPageUrl = id => `https://101121.notion.site/${id.replace(/-/g, '')}`
 
 /**
  * Notion page renderer
